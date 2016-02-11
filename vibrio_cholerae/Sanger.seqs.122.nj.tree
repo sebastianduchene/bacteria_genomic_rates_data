@@ -1,0 +1,164 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tue Jan 22 21:24:58 2013]
+[!
+>Data file = /Users/eddieholmes/Desktop/Sanger.seqs.122.nex
+>Heuristic search settings:
+>  Optimality criterion = likelihood
+>    Likelihood settings:
+>      Transition/transversion ratio = 2 (kappa = 4.1799432)
+>      Assumed nucleotide frequencies (empirical frequencies):
+>        A=0.19213  C=0.32868  G=0.28012  T=0.19908
+>      Among-site rate variation:
+>        Assumed proportion of invariable sites  = none
+>        Distribution of rates at variable sites = equal
+>      These settings correspond to the HKY85 model
+>      Number of distinct data patterns under this model = 1392
+>      Molecular clock not enforced
+>      Starting branch lengths obtained using Rogers-Swofford approximation
+>        method
+>      Trees with approximate likelihoods 5% or further from the target score
+>        are rejected without additional iteration
+>      Branch-length optimization = one-dimensional Newton-Raphson with pass
+>                                   limit=20, delta=1e-06
+>      -ln L (unconstrained) = unavailable due to missing-data and/or
+>                              ambiguities
+>  Starting tree(s) obtained via neighbor-joining
+>  Branch-swapping algorithm: none
+>  Branches collapsed (creating polytomies) if branch length is less than or
+>     equal to 1e-08
+>  Topological constraints not enforced
+>  Trees are unrooted
+>
+>Heuristic search completed
+>   Total number of rearrangements tried = 0
+>   Score of best tree(s) found = 12457.04784
+>   Number of trees retained = 1
+>   Time used = 1 sec (CPU time = 1.04 sec)
+]
+	Translate
+		1 '2010EL_1786_Haiti_2010',
+		2 '2010EL_1792_Haiti_2010',
+		3 2010EL_1798_Haiti_2010,
+		4 4605_India_2007,
+		5 4656_India_2006,
+		6 4675_Bangladesh_2001,
+		7 4679_Bangladesh_1999,
+		8 4663_Bangladesh_2001,
+		9 4661_Bangladesh_2001,
+		10 4660_Bangladesh_1994,
+		11 4110_Vietnam_1995,
+		12 4111_Vietnam_2002,
+		13 4322_India_2004,
+		14 4642_India_2006,
+		15 4670_Bangladesh_1991,
+		16 4672_Bangladesh_2000,
+		17 4122_Vietnam_2007,
+		18 MJ1485_Bangladesh_M_1994,
+		19 A383_Bangladesh_2002,
+		20 A330_India_1993,
+		21 MG116025_Bangladesh_M_1991,
+		22 MBN17_India_2004,
+		23 VC51_India_1992,
+		24 V212_1_India_1991,
+		25 V109_India_1990,
+		26 V5_India_1989,
+		27 A488_2_Bangladesh_2006,
+		28 MBRN14_India_2004,
+		29 A184_Colombia_1992,
+		30 'A109_N.I_1990',
+		31 A180_Colombia_1992,
+		32 A177_Colombia_1992,
+		33 A155_Mozambique_1991,
+		34 A154_Mozambique_1991,
+		35 A152_Mozambique_1991,
+		36 A131_India_1989,
+		37 A130_India_1989,
+		38 A185_Colombia_1992,
+		39 A232_Mexico_1991,
+		40 A193_Bolivia_1992,
+		41 A186_Argentina_1992,
+		42 A231_Mexico_1991,
+		43 A201_Argentina_1992,
+		44 A200_Argentina_1992,
+		45 A241_Vietnam_1989,
+		46 A483_Djibouti_2007,
+		47 A245_Vietnam_1989,
+		48 A482_Djibouti_2007,
+		49 A481_Djibouti_2007,
+		50 A397_Bangladesh_M_1987,
+		51 A316_Argentina_1993,
+		52 A346_2_Bangladesh_1994,
+		53 A390_Bangladesh_M_1987,
+		54 A487_2_Bangladesh_2007,
+		55 PRL18_India_1984,
+		56 GP60_India_1973,
+		57 IDHO1726_India_2009,
+		58 GP152_India_1979,
+		59 PRL5_India_1980,
+		60 GP145_India_1979,
+		61 GP143_Bahrain_1978,
+		62 GP140_Malaysia_1978,
+		63 'GP106_W.Germany_1975',
+		64 PRL64_India_1992,
+		65 6214_Kakuma_2007,
+		66 6191_Nairobi_2005,
+		67 6180_Nairobi_2007,
+		68 6212_Kakuma_2007,
+		69 6210_Nairobi_2007,
+		70 6201_Nairobi_2007,
+		71 6197_Nairobi_2007,
+		72 6196_Nairobi_2005,
+		73 6195_Nairobi_2005,
+		74 6194_Nairobi_2007,
+		75 6193_Nairobi_2005,
+		76 6215_Kakuma_2005,
+		77 7684_Machakos_2009,
+		78 7682_Machakos_2009,
+		79 7687_Machakos_2009,
+		80 7686_Machakos_2009,
+		81 7685_Machakos_2009,
+		82 1346_Mozambique_2005,
+		83 4551_India_2007,
+		84 4623_India_2007,
+		85 4593_India_2007,
+		86 4538_India_2007,
+		87 4339_India_2004,
+		88 4121_Vietnam_2004,
+		89 4113_Vietnam_2003,
+		90 1362_Mozambique_2005,
+		91 4585_India_2007,
+		92 4552_India_2007,
+		93 4488_India_2006,
+		94 4784_Tanzania_2009,
+		95 4600_India_2007,
+		96 4646_India_2007,
+		97 4662_Bangladesh_2001,
+		98 4519_India_2005,
+		99 4536_India_2007,
+		100 A27_Peru_1991,
+		101 1627_Mozambique_2005,
+		102 GP160_India_1980,
+		103 A5_Angola_1989,
+		104 A6_Indonesia_1957,
+		105 A10_Bangladesh_1979,
+		106 A18_India_1977,
+		107 A19_Bangladesh_1975,
+		108 A22_Bangladesh_1979,
+		109 A29_Peru_1991,
+		110 A31_Peru_1991,
+		111 A32_Peru_1991,
+		112 A346_1_Bangladesh_1994,
+		113 A488_1_Bangladesh_2006,
+		114 A487_1_Bangladesh_2007,
+		115 MG116226_Bangladesh_M_1991,
+		116 B33_Mozambique_2004,
+		117 CIRS101_Bangladesh_2002,
+		118 M66_Indonesia_1937,
+		119 MJ1236_Bangladesh_M_1994,
+		120 MO10_India_1992,
+		121 RC9_Kenya_1985,
+		122 N16961_Bangladesh_1975
+		;
+tree PAUP_1 = [&U] (1:0,2:0,3:0,((((((((((((4:0.001954,(83:0.002315,92:0.004637):0.000952,85:0.001347):0.003266,17:0.005079,(84:0.003467,(91:0.002311,95:0.001155):0.001729,99:0.005809):0.002882,93:0.006954):0.004032,(5:0,96:0):0.002884,13:0.005378,14:0,28:0.002941,87:0.005804):0.010346,64:0.003551):0.006970,((10:0.004252,(((((((11:0,88:0):0.004657,(12:0.008457,89:0.001327):0.002706):0.014618,16:0.014684):0.002396,15:0.008202,((18:0.002562,119:0.001171):0.004466,((52:0,112:0):0.003647,((82:0.000604,90:0.000576,101:0.002885):0.001877,116:0.001742):0.021503):0.000670):0.005408,23:0.005483,24:0.005210):0.012655,((19:0.028212,20:0.003672,120:0.003768):0.014772,((((((((((((29:0.000586,31:0.001182,32:0,38:0.001166,((40:0,41:0,44:0):0.003904,43:0.001164):0.001298,100:0.001151,109:0.001724,110:0.001149,111:0.000575):0.001136,(39:0,42:0.000584):0.001235,53:0.001852):0.009760,103:0.004583):0.022372,(60:0.000580,63:0,102:0):0.012885):0.000529,(33:0,34:0.000575,35:0.002876):0.029945):0.004680,55:0.029703,((104:0.003458,118:0.132677):0.011926,106:0.003804):0.010769):0.008326,(107:0.000574,122:0.001277):0.003197):0.000580,(((50:0.016031,108:0.003584):0.010991,58:0.011014):0.007158,56:0.006503,(61:0.013379,121:0.017526):0.001682):0.001908):0.005249,62:0.009584):0.005251,(45:0.002990,47:0.005253):0.013931,105:0.006371):0.002315,51:0.007061):0.000515,59:0.008188):0.011611,30:0.001262):0.006295,(36:0.000623,37:0):0.009960):0.000775,(21:0.005254,115:0.004825):0.004862,26:0.008948):0.001793,25:0.010322):0.009292):0.000850,((46:0,48:0.000587,49:0.000589,(77:0,78:0.000583,79:0,80:0,81:0):0.004613):0.018055,((65:0,68:0,69:0,76:0):0.005196,(66:0.000588,67:0,70:0,71:0,72:0,73:0,74:0,75:0):0.005760):0.011089,94:0.010453):0.013905):0.003549):0.004523,6:0.003555):0.002510,(9:0.001831,(27:0,113:0):0.000620):0.007493):0.003132,(8:0,(54:0,114:0):0.000623,97:0.002313):0.001249):0.002641,117:0.005898):0.001978,7:0.002350):0.004622,22:0.002893,86:0.003462,98:0.004040):0.000633,57:0.006451):0.009057);
+End;
