@@ -29,33 +29,34 @@
 
 [*S. Agona*](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/salmonella_Agona)
 
-[*S. Kentucky*]()
+[*S. Kentucky*](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/s_kentucky)
 
-S. aureus ST93
+[*S. aureus* ST93](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/Staph_aureus_ST93)
 
-K. pneumoniae CC258 (two clades)
+[*K. pneumoniae* CC258 (two clades)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/klebsiella_pneumoniae)
 
-K. pneumoniae CC258 (clade 1)
+[*K. pneumoniae* CC258 (clade 1)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/klebsiella_pneumoniae)
 
-S. dysenteriae Sd1
+[*K. pneumoniae* CC258 (clade 2)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/klebsiella_pneumoniae)
 
-S. sonnei VN
+[*S. dysenteriae* Sd1](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/Shigella_dyss_Sd1)
 
-K. pneumoniae CC258 (clade 2)
+[*S. sonnei* VN](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/shigella_sonnei_VN)
 
-V. cholerae
 
-S. aureus ST239 (ingroup)
+[*V. cholerae*](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/vibrio_cholerae)
 
-S. aureus ST239 (all)
+[*S. aureus* ST239 (ingroup)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/Staphyloccus_aureus_ST239)
 
-S. aureus ST8-USA300
+[*S. aureus ST239* (all)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/Staphyloccus_aureus_ST239)
 
-S. pyogenes (two clades)
+[*S. aureus* ST8-USA300](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/Staphylococcus_aureus_ST8_USA300)
 
-S. pyogenes (clade 2)
+[*S. pyogenes* (two clades)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/streptococcus_pyogenes)
 
-S. pyogenes (clade 1)
+[*S. pyogenes* (clade 2)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/streptococcus_pyogenes)
+
+[*S. pyogenes* (clade 1)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/streptococcus_pyogenes)
 
 A. baumannii GC1
 
