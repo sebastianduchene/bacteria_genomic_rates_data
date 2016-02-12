@@ -6,7 +6,7 @@ The supplementary table with information about each data set can be found [here]
 
 - [*Y. pestis*](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/yersinia_pestis)
 
-- [*Y. pestis* (second pandemic)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/yersinia_pestis)
+- [*Y. pestis* (second pandemic)](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/yersinia_pestis_second_pandemic)
 
 - [*M. tuberculosis* Lineage 4](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/M_tuberculosis_Lineage4)
 
