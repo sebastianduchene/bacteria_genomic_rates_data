@@ -1,6 +1,6 @@
 # Repository for bacteria data sets
 
-The supplementary table with infomation about each data set can be found [here]().
+The supplementary table with information about each data set can be found [here](https://github.com/sebastianduchene/bacteria_genomic_rates_data/blob/master/table_s1.xlsx).
 
 - [*M. leprae*](https://github.com/sebastianduchene/bacteria_genomic_rates_data/tree/master/mycobacterium_leprae)
 
